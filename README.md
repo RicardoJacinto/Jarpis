@@ -1,12 +1,12 @@
 # Jarpis
 
-<img src = "https://i.imgur.com/V9PUWQM.jpg">
+<img src = "https://i.imgur.com/aFomjts.jpg">
 
 <h1> Summary </h1>
 
 <p> Gardening and pool maintenance website developed for our client "Jarpis". This website was developed by Jeronimo Lourenço and me, developers at <strong>Ensaio de Cor</strong>. </p>
 
-<h1> Check my website @ <a href="https://www.jarpis.pt/"> Brooklyn Film Festival </a>  </h1>
+<h1> Check my website @ <a href="https://www.jarpis.pt/"> Jarpis </a>  </h1>
 
 <h3> Developed features: </h3>
 <ul>
