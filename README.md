@@ -10,7 +10,7 @@
 
 <h3> Developed features: </h3>
 <ul>
-  <li> "Marcas" page; </li> 
+  <li> Full blown page production; </li> 
   <li> CSS teaks and general page formating; </li>
   <li> Responsiveness on all view ports; </li>
   <li> Mobile menus; </li>
